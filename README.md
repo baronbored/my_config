@@ -2,4 +2,4 @@
 Mine, bitch
 
 OK RETAR
-install xcompctl, urxtl
+install xcompctl, urxtl and slstatus
